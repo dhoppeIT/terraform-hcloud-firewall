@@ -72,7 +72,7 @@ module "hcloud-firewall" {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | >= 1.0.0, < 2.0.0 |
+| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.32.2 |
 
 ## Modules
 

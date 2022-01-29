@@ -11,7 +11,7 @@ Terraform module to manage the Hetzner Cloud resource (hcloud_firewall).
 Copy and paste into your Terraform configuration, insert the variables and run ```terraform init```:
 
 ```hcl
-module "hcloud-firewall" {
+module "hcloud_firewall" {
   source = "dhoppeIT/firewall/hcloud"
 
   name = "default"

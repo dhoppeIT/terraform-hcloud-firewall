@@ -75,7 +75,7 @@ module "hcloud_firewall" {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.33.0 |
+| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.33.1 |
 
 ## Modules
 

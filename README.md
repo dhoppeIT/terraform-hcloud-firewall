@@ -125,7 +125,7 @@ Apache 2 licensed. See [LICENSE](https://github.com/dhoppeIT/terraform-hcloud-fi
 
 | Name | Version |
 |------|---------|
-| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.34.1 |
+| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.35.2 |
 
 ## Modules
 

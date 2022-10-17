@@ -75,7 +75,7 @@ module "hcloud_firewall" {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.33.1 |
+| <a name="provider_hcloud"></a> [hcloud](#provider\_hcloud) | 1.35.2 |
 
 ## Modules
 
@@ -102,7 +102,6 @@ No modules.
 |------|-------------|
 | <a name="output_id"></a> [id](#output\_id) | Unique ID of the Firewall |
 | <a name="output_name"></a> [name](#output\_name) | Name of the Firewall |
-
 <!-- END_TF_DOCS -->
 
 ## Authors

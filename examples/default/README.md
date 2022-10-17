@@ -53,7 +53,6 @@ No resources.
 |------|-------------|
 | <a name="output_firewall_id"></a> [firewall\_id](#output\_firewall\_id) | Unique ID of the Firewall |
 | <a name="output_firewall_name"></a> [firewall\_name](#output\_firewall\_name) | Name of the Firewall |
-
 <!-- END_TF_DOCS -->
 
 ## Authors

@@ -1,7 +1,7 @@
 module "hcloud_firewall" {
   source = "../../"
 
-  name = "default"
+  name = "example-firewall"
   rule = [
     {
       direction = "in"

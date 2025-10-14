@@ -14,7 +14,7 @@ module "hcloud_firewall" {
   source  = "gitlab.com/terraform-child-modules-48151/terraform-hcloud-firewall/local"
   version = "1.0.0"
 
-  name = "default"
+  name = "example-firewall"
   rule = [
     {
       direction = "in"

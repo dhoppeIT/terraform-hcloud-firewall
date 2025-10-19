@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1](https://gitlab.com/terraform-child-modules-48151/terraform-hcloud-firewall/compare/v1.0.0...v1.0.1) (2025-10-19)
+
+### Bug Fixes
+
+* **terraform:** Protect sensitive input variables ([2aeee1b](https://gitlab.com/terraform-child-modules-48151/terraform-hcloud-firewall/commit/2aeee1b4af890aa56255eb980dd8df97ad7ec40f))
+
 ## 1.0.0 (2025-10-14)
 
 ### Features
